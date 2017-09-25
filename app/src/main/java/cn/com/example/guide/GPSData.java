@@ -4,6 +4,8 @@ import com.amap.api.maps.model.LatLng;
 import com.amap.api.trace.TraceLocation;
 
 /**
+ * 作者：BlackFatty
+ *
  * 数据格式： 经度， 纬度， 速度（此数值除以10后的单位为‘m/s’），
  * 高度， 航向(此数值除以10后的单位为‘度’)， 俯仰角（单位为‘度’），
  * 横滚角（单位为‘度’）， 颠簸， 侧翻等级， 危险驾驶
